@@ -1,0 +1,107 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "register_number": "921021104001",
+      "student_name": "Aravind Kumar",
+      "dob": "2003-05-14",
+      "password_hash": "b2a1f4fd0a460606b34c8913e2981dac8d2e283d778aba586c416ee2629bfa54",
+      "department": "Computer Science",
+      "year": 3,
+      "semester": 5
+    },
+    {
+      "id": 2,
+      "register_number": "921021104002",
+      "student_name": "Priya Raman",
+      "dob": "2004-08-22",
+      "password_hash": "b2a1f4fd0a460606b34c8913e2981dac8d2e283d778aba586c416ee2629bfa54",
+      "department": "Information Technology",
+      "year": 2,
+      "semester": 4
+    },
+    {
+      "id": 3,
+      "register_number": "921021104003",
+      "student_name": "Rohan Sharma",
+      "dob": "2002-11-09",
+      "password_hash": "b2a1f4fd0a460606b34c8913e2981dac8d2e283d778aba586c416ee2629bfa54",
+      "department": "Electronics and Comm",
+      "year": 4,
+      "semester": 7
+    },
+    {
+      "id": 4,
+      "register_number": "921021104004",
+      "student_name": "Sneha Patel",
+      "dob": "2003-01-30",
+      "password_hash": "b2a1f4fd0a460606b34c8913e2981dac8d2e283d778aba586c416ee2629bfa54",
+      "department": "Mechanical Engineering",
+      "year": 3,
+      "semester": 6
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Database Management Systems (DBMS) - Complete Units 1-5",
+      "subject": "Database Management Systems",
+      "department": "Computer Science",
+      "year": 3,
+      "semester": 5,
+      "description": "Comprehensive handwritten & typed lecture notes covering Relational Algebra, SQL queries, Normalization (1NF to BCNF), and Transaction Concurrency.",
+      "file_path": "dbms_full_notes.pdf",
+      "original_filename": "DBMS_Units_1_to_5_Complete.pdf",
+      "file_size": 2450000,
+      "uploaded_by": "921021104001",
+      "author_name": "Aravind Kumar",
+      "uploaded_at": "Oct 10, 2026 10:30 AM"
+    },
+    {
+      "id": 3,
+      "title": "Data Structures & Algorithms - Trees, Graphs & Dynamic Programming",
+      "subject": "Data Structures",
+      "department": "Information Technology",
+      "year": 2,
+      "semester": 4,
+      "description": "Binary Search Trees, AVL rotations, Graph traversals (BFS & DFS), Dijkstra shortest path, and classic DP problems with solutions.",
+      "file_path": "dsa_trees_graphs.pdf",
+      "original_filename": "DSA_Comprehensive_Guide.pdf",
+      "file_size": 3120000,
+      "uploaded_by": "921021104002",
+      "author_name": "Priya Raman",
+      "uploaded_at": "Oct 08, 2026 11:45 AM"
+    },
+    {
+      "id": 4,
+      "title": "VLSI System Design - CMOS Inverter & Layout Rules",
+      "subject": "VLSI Design",
+      "department": "Electronics and Comm",
+      "year": 4,
+      "semester": 7,
+      "description": "MOSFET equations, stick diagrams, lambda design rules, delay estimation using Elmore delay model, and dynamic CMOS logic circuits.",
+      "file_path": "vlsi_cmos_design.pdf",
+      "original_filename": "VLSI_Design_Lecture_Notes.pdf",
+      "file_size": 4200000,
+      "uploaded_by": "921021104003",
+      "author_name": "Rohan Sharma",
+      "uploaded_at": "Oct 09, 2026 04:00 PM"
+    },
+    {
+      "id": 5,
+      "title": "Fluid Mechanics & Heat Transfer - Solved Exam Problems",
+      "subject": "Fluid Mechanics",
+      "department": "Mechanical Engineering",
+      "year": 3,
+      "semester": 6,
+      "description": "Bernoulli principle derivations, Navier-Stokes simplified equations, boundary layer theory, and heat exchangers LMTD problems.",
+      "file_path": "mech_fluid_mechanics.pdf",
+      "original_filename": "Fluid_Mechanics_Solved_Problems.pdf",
+      "file_size": 2950000,
+      "uploaded_by": "921021104004",
+      "author_name": "Sneha Patel",
+      "uploaded_at": "Oct 07, 2026 09:20 AM"
+    }
+  ],
+  "sessions": {}
+}

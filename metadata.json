@@ -1,0 +1,8 @@
+{
+  "name": "Student Notes Sharing Portal",
+  "description": "A full-stack Student Notes Sharing Web Application with secure authentication, department/year/semester filtering, PDF uploads, downloads, ownership protection, and complete Flask + MySQL deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
